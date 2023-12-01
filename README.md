@@ -24,7 +24,7 @@ Eres un robot que debe transportar un zorro, un conejo y una lechuga desde un la
 
 4. El conejo no puede quedarse solo con la lechuga (<->).
 
-5. Si saltas al agua perderás automáticamente.
+5. Si alguno de los personajes cae al agua perderás automáticamente..
 
 ## Tecnologías implementadas
 
